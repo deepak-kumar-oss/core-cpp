@@ -1,0 +1,26 @@
+# Docs
+database.md
+project.md
+
+# Executables
+*.exe
+*.out
+
+# Object files
+*.o
+*.obj
+
+# Build folders
+build/
+bin/
+
+# VS Code
+.vscode/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+
+# Visual Studio
+*.sln
+*.vcxproj*
